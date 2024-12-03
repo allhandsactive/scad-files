@@ -1,7 +1,7 @@
 # All Hands Active openSCAD files
 
 ## Get openSCAD
-You can get openSCAD from the [openSCAD] (https://openscad.org/) website.
+You can get openSCAD from the [openSCAD](https://openscad.org/) website.
 
 ## Files
 
